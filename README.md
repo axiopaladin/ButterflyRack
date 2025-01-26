@@ -44,8 +44,6 @@ is approximately 8" deep, comparable to the
 two jobs. Smaller printers can still do the job, however; the longest dimension 
 of any printed part is just 4.5 inches.
 
-![A timelapse video of components being printed.](img/timelapse.mp4)
-
  2. Press-fit four corner brackets together with four butterfly joints. A 
 well-calibrated printer should produce parts that fit extremely tightly, but a 
 drop of glue or epoxy could be added for peace of mind, if desired. Note that 
