@@ -71,3 +71,37 @@ image below uses the same color scheme as above.
 frame to the other end of the rails the same as in step 3, capping off the 
 rack. Congratulations, it is now complete and ready for you to add your 
 rack-mount equipment!
+
+## Accessories & Extras
+### Carry Handles
+I've added a pair of handles to my rack. Those 8mm holes in the angle brackets 
+aren't just there to add extra walls to the middle of the arm: they're 
+secretly just the right size for M6 heated inserts! This allows us to attach 
+items along the frame, so long as they have a pair of holes that match the 
+distance given by the butterfly spacer, with nothing but some spare M6 bolts.
+
+#### Printed Parts
+ - (2x) Handle2113 (for use along axes with a 2113mil Butterfly spacer)
+
+#### Hardware 
+ - (4x) M6 Heated Inserts (8mm OD, 8mm depth)
+ - (4x) M6 x 16mm Bolts
+
+#### Assembly Instructions
+ 1. Flip the rack upside-down and set out the heatset inserts as shown below:
+
+![An image showing four heatset inserts in the holes lined up between the front and back rails on each side.](img/heatsets.png)
+
+ 2. Using your preferred heating tool, heat up each insert and press it down 
+until it seats flush. (Tip: Press it most of the way down with heat, then 
+press it the rest of the way with a large, flat object to prevent 
+over-penetration.)
+
+![An image showing a properly inserted heatset.](img/heatset.png)
+
+ 3. Flip the rack back over (upside-up) and screw the handles in place with the 
+M6 bolts. (The bolts should be screwing into the heatset inserts from the 
+*opposite* side of the one they were inserted from.)
+
+![An image showing the completed rack, with handles attached.](img/handle-rack.png)
+
